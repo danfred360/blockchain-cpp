@@ -1,0 +1,3 @@
+Compile and output to binary file `FrosyCoin` - `g++ main.cpp -o FrostyCoin`
+
+run `./FrostyCoin`
